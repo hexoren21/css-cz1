@@ -1,0 +1,36 @@
+.header_area {
+  font-size: 25px;
+  padding: 40px 25px;
+  color: whitesmoke;
+  background-color: rgb(59, 59, 59);
+  margin: 70px 30px;
+  border: 10px white solid;
+  outline: 10px red solid;
+}
+
+.site-main .first_banner div {
+  background-image: url("img/person.jpg");
+  height: 426px;
+  width: 640px;
+  border: 50px white solid;
+  margin: 20px auto;
+
+  -webkit-box-shadow: 10px 7px 7px 5px rgba(184, 184, 184, 0.82);
+  -moz-box-shadow: 10px 7px 7px 5px rgba(184, 184, 184, 0.82);
+  box-shadow: 10px 7px 7px 5px rgba(184, 184, 184, 0.82);
+}
+
+.site-main .last_banner div {
+  height: 500px;
+  width: 500px;
+  background-color: white;
+  background-size: 150px 110px ;
+  background-repeat: space space;
+  margin: 60px auto;
+  background-image: url("img/bomb.jpg");
+  border-radius: 400px 400px 400px 400px;
+  -moz-border-radius: 400px 400px 400px 400px;
+  -webkit-border-radius: 400px 400px 400px 400px;
+  border: 25px solid #834623;
+}
+
